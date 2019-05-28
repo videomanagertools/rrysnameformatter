@@ -1,6 +1,6 @@
 {
   "name": "@vdts/rrysrename",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "rrys rename",
   "main": "./lib/index.js",
   "bin": {
