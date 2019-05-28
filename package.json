@@ -4,7 +4,7 @@
   "description": "rrys rename",
   "main": "./lib/index.js",
   "bin": {
-    "cv": "./lib/index.js"
+    "rrysrename": "./lib/index.js"
   },
   "scripts": {
     "clean": "rimraf lib",
