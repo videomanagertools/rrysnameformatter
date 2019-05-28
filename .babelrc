@@ -1,0 +1,12 @@
+{
+  "env": {
+    "development": {
+      "presets": ["@babel/preset-env"],
+      "plugins": ["@babel/plugin-proposal-unicode-property-regex", "add-module-exports"]
+    },
+    "production": {
+      "presets": ["@babel/preset-env", "minify"],
+      "plugins": ["@babel/plugin-proposal-unicode-property-regex", "add-module-exports"]
+    }
+  }
+}
